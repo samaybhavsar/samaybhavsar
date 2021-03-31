@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'am Samay
 
+I solve problems, make the complex simple, shape behavior, design, plan, strategize, and architect. I fight for the user, all the while balancing the needs of business and technology to create intuitive and elegant digital products and experiences.
 <!--
 **samaybhavsar/samaybhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

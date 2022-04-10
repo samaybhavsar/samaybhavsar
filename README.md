@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+---
+
 <!-- GitHub stats -->
 
 <b>⚡ My GitHub Statistics</b>
